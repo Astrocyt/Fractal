@@ -1,0 +1,12 @@
+G:\PLIKI\GitRepo\Fractal\Fractal\Fractal\bin\Debug\Fractal.exe.config
+G:\PLIKI\GitRepo\Fractal\Fractal\Fractal\bin\Debug\Fractal.exe
+G:\PLIKI\GitRepo\Fractal\Fractal\Fractal\bin\Debug\Fractal.pdb
+G:\PLIKI\GitRepo\Fractal\Fractal\Fractal\obj\Debug\Fractal.csprojResolveAssemblyReference.cache
+G:\PLIKI\GitRepo\Fractal\Fractal\Fractal\obj\Debug\Fractal.Properties.Resources.resources
+G:\PLIKI\GitRepo\Fractal\Fractal\Fractal\obj\Debug\Fractal.csproj.GenerateResource.Cache
+G:\PLIKI\GitRepo\Fractal\Fractal\Fractal\obj\Debug\Fractal.exe
+G:\PLIKI\GitRepo\Fractal\Fractal\Fractal\obj\Debug\Fractal.pdb
+G:\PLIKI\GitRepo\Fractal\Fractal\Fractal\bin\Debug\FractalCreator.dll
+G:\PLIKI\GitRepo\Fractal\Fractal\Fractal\bin\Debug\FractalCreator.pdb
+G:\PLIKI\GitRepo\Fractal\Fractal\Fractal\obj\Debug\Fractal.View.Class.PropertiesWindow.resources
+G:\PLIKI\GitRepo\Fractal\Fractal\Fractal\obj\Debug\Fractal.View.Class.RenderPreviewWindow.resources

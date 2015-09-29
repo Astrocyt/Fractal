@@ -1,0 +1,5 @@
+G:\PLIKI\GitRepo\Fractal\Fractal\FractalCreator\obj\Debug\FractalCreator.csprojResolveAssemblyReference.cache
+G:\PLIKI\GitRepo\Fractal\Fractal\FractalCreator\bin\Debug\FractalCreator.dll
+G:\PLIKI\GitRepo\Fractal\Fractal\FractalCreator\bin\Debug\FractalCreator.pdb
+G:\PLIKI\GitRepo\Fractal\Fractal\FractalCreator\obj\Debug\FractalCreator.dll
+G:\PLIKI\GitRepo\Fractal\Fractal\FractalCreator\obj\Debug\FractalCreator.pdb
